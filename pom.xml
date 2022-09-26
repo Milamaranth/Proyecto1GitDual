@@ -8,13 +8,8 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-<<<<<<< Updated upstream
-	
-=======
->>>>>>> Stashed changes
 	<developers>
 		<developer>
-		   <id>Milagrosa Sanchez Carrero</id>
 		   <name>Milagrosa Sanchez Carrero</name>
 		   <email>mila.sanchezcarrero@gmail.com</email>
 		   <organization>google.com</organization>
@@ -26,10 +21,7 @@
 		   </roles>
 		</developer>
 	</developers>
-<<<<<<< Updated upstream
 	
-=======
->>>>>>> Stashed changes
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
