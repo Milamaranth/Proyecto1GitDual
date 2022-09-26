@@ -8,6 +8,22 @@
 		<version>2.7.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	
+	<developers>
+		<developer>
+		   <id>Milagrosa Sanchez Carrero</id>
+		   <name>Milagrosa Sanchez Carrero</name>
+		   <email>mila.sanchezcarrero@gmail.com</email>
+		   <organization>google.com</organization>
+		   <organizationUrl>http://www.google.com</organizationUrl>
+		   <roles>
+			  <role>Todo</role>
+			  <role>Lo toca todo y no deja titere con cabeza</role>
+			  <role>Todo</role>
+		   </roles>
+		</developer>
+	</developers>
+	
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
